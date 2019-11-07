@@ -1,6 +1,6 @@
 # BELAJAR Framework CodeIgniter
 
-| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Develop Application][3] |
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Develop Web][3] |
 |:---------:|:--------------:|:--------------:|:------------------------:|
 
 ---
@@ -57,7 +57,7 @@
 
 ---
 
-| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Develop Application][3] |
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Develop Web][3] |
 |:---------:|:--------------:|:--------------:|:------------------------:|
 
 [0]: README.md "Home"
