@@ -41,7 +41,7 @@
 ---
 
 ### File
-<!-- * Slide materi [LESSON 01: Pengenalan dasar tentang CLI Linux untuk develop aplikasi dengan menggunakan C GNU Library](files/Lesson1_CProgrammingBagiPemula.pdf) -->
+<!-- * Slide materi [LESSON 01: Pengenalan dasar tentang framework CI] -->
 
 ---
 
@@ -56,8 +56,8 @@
 ---
 
 ### Feedback
-<!-- 1. Apa yang menjadi bottleneck dari **lesson 02** ini?
-2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 02** ini? -->
+<!-- 1. Apa yang menjadi bottleneck dari **lesson 01** ini?
+2. Apa yang sebaiknya ditambah dan ditiadakan dari materi **lesson 01** ini? -->
 
 ---
 
@@ -74,6 +74,3 @@
 [1]: lesson-01.md "Pengenalan dasar tentang CLI Linux untuk develop aplikasi dengan menggunakan C GNU Library"
 [2]: lesson-02.md "Pengenalan algoritma dasar pemrograman dengan Bahasa C"
 [3]: lesson-03.md "Array dan struktur pada Pemrograman C"
-[4]: lesson-04.md "Penanganan file pada Pemrograman C"
-[5]: lesson-05.md "Implementasi TCP Server - Client pada Pemrograman C"
-[6]: lesson-06.md "Pembuatan aplikasi Collect and Controlling Data Logger"
