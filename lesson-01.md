@@ -1,7 +1,7 @@
 # Mentoring PHPID
 
-| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Develop Application][3] |
-|:---------:|:--------------:|:--------------:|:--------------:|
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Develop Web][3] |
+|:---------:|:--------------:|:--------------:|:----------------:|
 
 ---
 
@@ -46,12 +46,7 @@
 ---
 
 ### Execises
-<!-- 1. Buat file HTML dengan:
-    * Judul
-    * Gambar
-    * Paragraf
-    * Link
-2. Beri style pada website yang dibuat di latihan pertama. -->
+<!--  -->
 
 ---
 
@@ -62,15 +57,14 @@
 ---
 
 ### References
-<!-- 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304 "Intro to HTML and CSS")
-2. [HTML & CSS for Beginners](https://www.codecademy.com/en/tracks/htmlcss "HTML & CSS for Beginners") -->
+<!--  -->
 
 ---
 
-| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Develop Application][6] |
-|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:------------------------:|
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Develop Web][3] |
+|:---------:|:--------------:|:--------------:|:----------------:|
 
 [0]: README.md "Home"
-[1]: lesson-01.md "Pengenalan dasar tentang CLI Linux untuk develop aplikasi dengan menggunakan C GNU Library"
-[2]: lesson-02.md "Pengenalan algoritma dasar pemrograman dengan Bahasa C"
-[3]: lesson-03.md "Array dan struktur pada Pemrograman C"
+[1]: lesson-01.md "Pengenalan dasar tentang Framework CI"
+[2]: lesson-02.md "Pengenalan Installasi Proyek E-Commerce dengan memakai Framework Codeigniter"
+[3]: lesson-03.md "Develop Web: Web E-commerce"
