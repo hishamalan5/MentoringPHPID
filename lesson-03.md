@@ -1,15 +1,15 @@
-# LARAVEL FRAMEWORK BAGI PEMULA
+# Mentoring PHPID
 
-| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Develop Application][6] |
-|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:------------------------:|
-
----
-
-### DEVELOP APPLICATION: Pembuatan aplikasi Collect and Controlling Data Logger
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Develop Web][3] |
+|:---------:|:--------------:|:--------------:|:----------------:|
 
 ---
 
-### Objectives
+### DEVELOP WEB: Web E-commerce
+
+---
+
+#### Objectives:
 1. Peserta memahami fitur **Personal Project** yang akan dibuat.
 2. Peserta mulai mengerjakan **Personal Project**.
 
@@ -21,7 +21,7 @@
 ---
 
 ### File:
-<!-- * Slide materi [DEVELOP APPLICATION: Pembuatan aplikasi Collect and Controlling Data Logger](files/DevelopApplication_CProgrammingBagiPemula.pdf) -->
+<!-- * Slide materi [DEVELOP WEB: Web E-commerce] -->
 
 ---
 
@@ -29,14 +29,10 @@
 
 ---
 
-| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Develop Application][6] |
-|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:------------------------:|
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Develop Web][3] |
+|:---------:|:--------------:|:--------------:|:----------------:|
 
 [0]: README.md "Home"
-[1]: lesson-01.md "Pengenalan dasar tentang teknologi website dan pengenalan tentang algoritma dasar pada pemrograman PHP"
-[2]: lesson-02.md "Pengenalan dasar tentang Framework Laravel dan pengenalan tentang konsep MVC pada Laravel"
-[3]: lesson-03.md "Pengenalan tentang Migration, Seeder, dan Model"
-[4]: lesson-04.md "Pengenalan tentang Route dan Blade pada Laravel"
-[5]: lesson-05.md "Pengenalan tentang Controller pada Laravel"
-[6]: lesson-06.md "Aplikasi Sederhana Untuk Pendataan Kantung Darah"
-
+[1]: lesson-01.md "Pengenalan dasar tentang Framework CI"
+[2]: lesson-02.md "Pengenalan Installasi Proyek E-Commerce dengan memakai Framework Codeigniter"
+[3]: lesson-03.md "Develop Web: Web E-commerce"
