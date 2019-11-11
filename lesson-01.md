@@ -1,27 +1,33 @@
-# C PROGRAMMING BAGI PEMULA
+# Mentoring PHPID
 
-| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Lesson 03][3] | [Lesson 04][4] | [Lesson 05][5] | [Develop Application][6] |
-|:---------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:------------------------:|
-
----
-
-### LESSON 01: Pengenalan dasar tentang teknologi website dan pengenalan tentang algoritma dasar pada pemrograman PHP
+| [Home][0] | [Lesson 01][1] | [Lesson 02][2] | [Develop Application][3] |
+|:---------:|:--------------:|:--------------:|:--------------:|
 
 ---
 
-### Objectives:
-1. Peserta mampu memetakan dan membedakan berbagai macam teknologi dalam pembuatan website.
-2. Peserta mampu menampilkan `Hello World` pada Bahasa Pemrograman PHP.
-3. Peserta mampu memahami konsep variabel pada Bahasa Pemrograman PHP.
-4. Peserta mampu memahami berbagai jenis operator dan pemakaiannya pada Bahasa Pemrograman PHP.
-5. Peserta mampu memahami struktur perulangan.
-6. Peserta mampu memahami struktur kondisi.
-7. Peserta mampu membuat form input dan output dengan menggunakan PHP
-8. Peserta mampu memahami fungsi.
-9. Peserta mampu memahami OOP pada Bahasa Pemrograman.
-10. Persiapan untuk kelas berikutnya.
+### LESSON 01: Pengenalan dasar tentang Framework Codeigniter
 
----
+#### Objectives:
+1. Peserta mampu memahami apa itu Framework Codeigniter.
+2. Peserta mampu memahami kelebihan dan kekurangan menggunakan Framework Codeigniter.
+3. Peserta mampu memahami cara mempersiapkan project Codeigniter.
+4. Peserta mampu memahami cara menjalankan service web ketika menggunakan Framework Codeigniter.
+5. Peserta mampu memahami struktur project dari Codeigniter.
+6. Peserta mampu memahami konsep MVC.
+7. Peserta mampu menampilkan "Hello World" pada laman web yang dikembangkan menggunakan Codeigniter.
+8. Peserta mampu memahami perbedaan pemrograman dengan PHP Native dan Framework.
+9. Peserta mampu memahami konsep migration.
+10. Peserta mampu memahami konsep routing
+11. Peserta mampu memahami konsep controller pada Codeigniter.
+12. Peserta mampu membuat file controller.
+13. Peserta mampu membuat fungsi CRUD pada sebuah controller.
+14. Peserta mampu membuat form pada Codeigniter.
+15. Peserta mampu membuat view yang menampilkan data dari database pada Codeigniter.
+16. Peserta mampu membuat route yang memanggil fungsi CRUD pada controller.
+17. Peserta mampu membuat simple CRUD dengan Codeigniter.
+18. Persiapan untuk kelas berikutnya.
+
+----
 
 ### Software yang harus diunduh dan di-install
   <!-- * [Sublime](https://www.sublimetext.com/3)
